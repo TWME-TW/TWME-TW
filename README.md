@@ -8,5 +8,5 @@
 #### Contact Information
 
 - Email: twme@builderintw.net
-- Discord ID: `TWME#5162`
+- Discord ID: `@twme`
 - Spigot ID: [TWME_TW](https://www.spigotmc.org/members/twme_tw.1036619/)
